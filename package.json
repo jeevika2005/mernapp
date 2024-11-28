@@ -1,0 +1,17 @@
+{
+  "name": "todobackend",
+  "version": "1.0.0",
+  "description": "A simple todo backend using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  },
+  "author": "jeevi",
+  "license": "MIT",
+  "keywords": []
+}
